@@ -14,7 +14,7 @@ a:hover {
   opacity: 0.8;
 }
 
-.clearfix::after {
+.nav-top::after {
   display: table;
   content: "";
   clear: both;
@@ -66,7 +66,7 @@ a:hover {
   font-size: 16px;
   background: transparent;
   border: 1px solid rgb(228, 224, 224);
-  border-radius: 25px;
+  border-radius: 5px;
 }
 
 .search-box:hover {
